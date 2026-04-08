@@ -1,0 +1,10 @@
+# Models (too large for GitHub)
+models/*.pkl
+
+# Data files
+data/
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
